@@ -131,4 +131,5 @@ dmypy.json
 # VS Code
 launch.json
 settings.json
+*.zip
 
